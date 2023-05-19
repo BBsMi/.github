@@ -18,12 +18,30 @@ Turnkey menu module for building BBsMi apps
 
 ### [ShellMi](//github.com/BBsMi/ShellMi)
 User shell for BBsMi users
+ - [ ] Truecolor support
+ - [ ] Sixtel support
+ - [ ] Possible virtual terminal / split screen support via Screen or Tmux
+ - [ ] Replace standard user shell
+ - [ ] VT100/VT220 fallback support
+ - [ ] File transfer suppport
 
 ### [AdminMi](//github.com/BBsMi/AdminMi)
 Administration and Management CLI for BBsMi
+ - [ ] Status dashboards
+ - [ ] User management
+ - [ ] Package management
+ - [ ] Maintence management
+
 
 ### [ServeMi](//github.com/BBsMi/ServeMi)
 Turnkey web server for BBsMi
+ - [ ] New user registration
+ - [ ] WebDAV personal suitcase
+ - [ ] Manage SSH keys
+ - [ ] User profiles
+ - [ ] Content Management System
+ - [ ] Payment gateway
+ - [ ] (Admin) User management
 
 ## Basics
 BBsMi relies heavily upon SSH and normal Linux / Unix user management. Anything that PAM can use as a backend, we can use
